@@ -1,0 +1,14 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: green;
+}
+#main-title{
+    
+    text-align: center;
+}
+#p1{
+    margin-bottom: 12px;
+}
+#p2{
+    margin-bottom: 12px;
+}
